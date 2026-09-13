@@ -1,0 +1,15 @@
+{
+    "start": [
+        0.7586206793785095,
+        0.6600985527038574
+    ],
+    "exit": [
+        0.6354679465293884,
+        0.7093596458435059
+    ],
+    "key": [
+        0.16748765110969544,
+        0.8817734122276306
+    ],
+    "note": "Viewport positions from the actual overview camera; visual fog disabled only for this render."
+}

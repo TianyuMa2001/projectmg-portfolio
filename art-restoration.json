@@ -1,0 +1,1395 @@
+{
+  "authorization": "User confirmed public display and binary redistribution permission on 2026-09-13. Original copyright ownership retained.",
+  "assets": [
+    {
+      "path": "Assets/Resources/alia_2000.png",
+      "sha256": "8c3128c5d90a0294339a1cf2a5eeabc75dfee814517c5792f43d362b90d59520",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/alia_32.PNG",
+      "sha256": "2a2cadca72f60db3ffaeadd00c8df881560c7aca2f16b2617d19e3c3b2df0b3f",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/coin 1.png",
+      "sha256": "4208f2e830f53d1cb1c546252741488e726ecac1815e9d48e9a0a062861c3703",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Coin-rotate.png",
+      "sha256": "d39ca6717b32f433aae408692d48fa073c6c816c125b4e5633232cb752bb7191",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/idle.png",
+      "sha256": "536df445f435dea8dee71111c88b13e0511a73e3c149057c4db6ca349aa817a3",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Square.png",
+      "sha256": "44f9592db7d11d11ed58c7cad12e35925d9974d6576fb0951b4fa0cd7c6eaf10",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Walk.png",
+      "sha256": "85e04849b92e93a12b03c2102f1920ebcb199f2f1ecb79278ab1c438ce222c50",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/wall_i.png",
+      "sha256": "1b98c797237954a8da795899d508849db92f0bf908e7e20e7a1da1321330c5bd",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/wall_i_2.png",
+      "sha256": "46f9592e6bcbf6db81f7ad5df805c6e09b82d4ff2b5b8f45a5340856fae8c319",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/wall_i_3.png",
+      "sha256": "78b7dcf6ae2f89753e40f4f23a02138dedab46d86c19e1a47c48d6f9696b3add",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/wall_i_4.png",
+      "sha256": "c1a6f95d88a7daf489daaa3369d452d3a87118f92a7a18185d450ae587368782",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/wall_l_1.png",
+      "sha256": "acffe79f673c34e7ea562095c54c2a76fcd4fe7cdec7d9aeaedfb6ad02548511",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/wall_l_2.png",
+      "sha256": "3810b3f86d926de90da5499765e970cbf4088cf6f9fe3bed16780f1301eeac8a",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/wall_l_3.png",
+      "sha256": "b019b973e6784e1f53ea69ab8a6cdb08263cc51161bec641b00c31f46b65f3ca",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/wall_l_4.png",
+      "sha256": "1cda81e7f2ca54ae8d99fafabc79b1296d56b5f378c70c96193bd97d4bcb1874",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/wall_T.png",
+      "sha256": "04e884cc0cbb878a0f2a147748370b7e8e030746b35d14346970e8e363505eef",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/wall_T_2.png",
+      "sha256": "c1b26ad947028a3856814a7d3a201e9687b5b42d958801021201e9abfb75aa7a",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/wall_T_3.png",
+      "sha256": "c6f3e8e0f7957126c7d613f4675d59cecb6f47c2758a8744a59b6c72543a630c",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/wall_T_4.png",
+      "sha256": "aaee5c000ac81f951b3c81b88c4420793798c2ac66da138b694f0d27032d3fd5",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Plugins/Demigiant/DOTween/Editor/Imgs/DOTweenIcon.png",
+      "sha256": "6e6ca81af7b3fdbecc7069b8644047713af97c8e311cd3da97e75eff0b973faa",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Plugins/Demigiant/DOTween/Editor/Imgs/DOTweenMiniIcon.png",
+      "sha256": "29cd2e4bf91e3fe91a2485ac1608d2ba6ae338d04c82fd8d343ae4336684e644",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Plugins/Demigiant/DOTween/Editor/Imgs/Footer.png",
+      "sha256": "b1bccfb25ef58988d123ade538e28637da988dfaf33272067b641f34582e7b89",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Plugins/Demigiant/DOTween/Editor/Imgs/Footer_dark.png",
+      "sha256": "2bc04d9700e60b53aa4741c4580d61e490b1192d3ea4f98f4437a2e776057a5a",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Plugins/Demigiant/DOTween/Editor/Imgs/Header.jpg",
+      "sha256": "80652902491d99fe580056ed204d204d9ecaccf810e7ec546bd949ccff8d67fd",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Enemies/Tilemap/tilemap.png",
+      "sha256": "047fb0ba37ede96a2411c3c12af10387b097cfcf2325bc6161a6e8a0bf684e06",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Enemies/Tilemap/tilemap_packed.png",
+      "sha256": "1f210f52ad15b62f4c27fcb62c214823088d6ccfafb828fa99fc706e11d77d73",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Enemies/Tiles/Brown/SPR_Player_Brown_1.png",
+      "sha256": "5ada0b215313a22bb70237f601ae1b398c8651745a263917871ef82ce4393afd",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Enemies/Tiles/Brown/SPR_Player_Brown_2.png",
+      "sha256": "62a376e055e9b34018dfda4b6db1554490ef1ddea8dc12193c96cde18f80e983",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Enemies/Tiles/Brown/SPR_Player_Brown_3.png",
+      "sha256": "0031cfcdeac91a379ca2bdd8c7ba1047fdbc6b7049ffd3ea7ab2b630fe5b22f9",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Enemies/Tiles/Brown/SPR_Player_Brown_4.png",
+      "sha256": "47f758d89513438c3e8274ddfb1592c37c601e0d42e0b9348a78bbc0d73cb7c6",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Enemies/Tiles/Green/SPR_Player_Green_1.png",
+      "sha256": "bfe4289abaa0a24cb2921094ae58f58bc075c81de8f11214518134f88aa1527f",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Enemies/Tiles/Green/SPR_Player_Green_2.png",
+      "sha256": "cb5763064166f22afb501caf0cc6059f75e6725f3050a01173b99c85656ce56f",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Enemies/Tiles/Green/SPR_Player_Green_3.png",
+      "sha256": "bff4684a0d846b5fba2cd255ee842280fa4b3dd3e6d1f5f143a11b485cf88821",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Enemies/Tiles/Green/SPR_Player_Green_4.png",
+      "sha256": "1ef8497ba75e43d4c12455b5aa97bb39e12b7a58b151968b2342f90426f43bf3",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Enemies/Tiles/Purple/SPR_Player_Purple_1.png",
+      "sha256": "99d517304d42ce54ec045f11f136deebbb5f73c75c38a1c51624ab0d044a79a7",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Enemies/Tiles/Purple/SPR_Player_Purple_2.png",
+      "sha256": "ca618c4db680c86ba14cf839333d259c4dd809165db980fac7876b05afbe7199",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Enemies/Tiles/Purple/SPR_Player_Purple_3.png",
+      "sha256": "5441be1c6a85dfe09975c8b8c6249e518cfcc3612c72a6267680e3da1ac8e523",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Enemies/Tiles/Purple/SPR_Player_Purple_4.png",
+      "sha256": "1bf06fc6ac6f4283adb6bfbc6eba8d431185300cfc8b0162dcf0c3516345baa9",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Enemies/Tiles/Yellow/SPR_Player_Yellow_1.png",
+      "sha256": "6189e581da7082727404a4052ba512491ca65194bc332298a316360127c1419e",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Enemies/Tiles/Yellow/SPR_Player_Yellow_2.png",
+      "sha256": "36505c909a3fcf9e580f261a2cf538b0c2f395db867217e2b80d5a5f2e74a8fa",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Enemies/Tiles/Yellow/SPR_Player_Yellow_3.png",
+      "sha256": "12d0673979cc58489347fe5a9a9949648265c52b693f57e1bbb98af0f283f56e",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Enemies/Tiles/Yellow/SPR_Player_Yellow_4.png",
+      "sha256": "bcb4e825d4e2f278e702ed1d1857cf4477875698a1c029ba7f887d32ccf2a80c",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tilemap/tilemap_packed.png",
+      "sha256": "f5378c8bbb596c85d88c0f3175b0761dd59cd1798650259d6e3be511ad2f84fd",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tilemap/_tilemap.png",
+      "sha256": "12cf32c87841befc63f6eaf9af6b5185da3621a1db928b62b207e2350b2e2ef9",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0000.png",
+      "sha256": "52e892c23d92e6d60b63740ff886a13428282ec2684d29cf9429ad81229c0a7f",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0001.png",
+      "sha256": "4af6ad7e5cfa298304e33c4268818c343b67c987d1a7528a504c012635c391bb",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0002.png",
+      "sha256": "b9fb989a37fb0f7ed71c2cee3a907849b218b333945f62d791a5c59702136aa1",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0003.png",
+      "sha256": "09051d41addfd95d4e9473bc3630c3a6e9f5e3660f194688e3e546f436fb0a7e",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0004.png",
+      "sha256": "1c72484f0dd93a894e0ec483aa9721bf2c62d50cad1ea0fa67c71f10e2f5cb47",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0005.png",
+      "sha256": "e4ae0f8495ef6fa015885334e46364658da26563d86ab09c562108b1917ebf2f",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0006.png",
+      "sha256": "938a9cd66a16319d95c9801eff31a388c0315a60d5e39e0e8d1463f5b4d7648b",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0007.png",
+      "sha256": "323cc1b91c8b81e4b7cfccb02ced09ae22f2168b7d1a63d549afb4cf6bb732aa",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0008.png",
+      "sha256": "d2f6d2bda4692072492e99a8faa6eaf088e277041da0707cadabc10f25677c38",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0009.png",
+      "sha256": "d295192578272766b422fa467a70b23d7cf756902ea9c517699d67e0375d127d",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0010.png",
+      "sha256": "4a144a588f977ed03f04b7e3d5a984c7f14250e3ad7359f3c5da9bc7ff2d04bc",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0011.png",
+      "sha256": "a6485aefe69a0e52d9e774cb1f92cc9348a9c64b373856a0eb3af57ebfd19ac7",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0012.png",
+      "sha256": "98dce426ce2d75e5599ef267cac3df84914d69edd06be894237782dc163fc250",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0013.png",
+      "sha256": "12b296ad98758f40d4b47bfe38628b5bcec3156bc663ab342e3f6d33f144f52b",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0014.png",
+      "sha256": "f15dbdd2826b82fbe8ac93204a0fef12dc83fdde2131349aa2b345ee55cf47a1",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0015.png",
+      "sha256": "d3a3edf73956704c86d333e4da5aa39dcd084941917b39cc807ef1a4312ddaa3",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0016.png",
+      "sha256": "306425b849a1ed6a2e9c5606efe12a846acb19c4926f934c49356b5c1c1be1eb",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0017.png",
+      "sha256": "57addf81a07c826edc2d53e8f67bbe201e8b71558f1bddc0f8bbe9acf211c9f6",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0018.png",
+      "sha256": "9f86f1305677161d31ed1db08299b4096b7e29fa87dfae48da1341fa367098c7",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0019.png",
+      "sha256": "3829d9825756477ffbc85a02b9316d41f51801c0e95031115cadd7a508ca6d21",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0020.png",
+      "sha256": "612de29b92f355a024d19bff85859cc80f926f361cd8746cd72a202faca29ffd",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0021.png",
+      "sha256": "b4f59fc19cb936c61986524bd68692b59ae43d334b7f96401a3e8ee1920042a8",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0022.png",
+      "sha256": "4229ddd696c9cc4f9e08793887838231905d81e1fe8f3697de25bac348a5d378",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0023.png",
+      "sha256": "8ab8287f8c3abb2dc1c49ac1482e7581a9cc8beba147bab89bc614fe22acb8c4",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0024.png",
+      "sha256": "8336c976e8c02ee408741adfe7bf1bb758d901d604794fbbf98b4a0fd33b47ea",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0025.png",
+      "sha256": "13c2085bae43e3991bed47ce33c39042738b19c877ee0d8fad2f27e20a26c89d",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0026.png",
+      "sha256": "47d8247a4dd42846dfa17e072954d3df332a53b56381562fa201f1498543defd",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0027.png",
+      "sha256": "e32ac15cec78626ec3e3cade9f3939b0e7e8b28ad1513525ab823e2fba57540d",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0028.png",
+      "sha256": "59960fe3589195bfcb94aa91ff9cb84c91b2f194716be426610cf4c54ef2636b",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0029.png",
+      "sha256": "e2267125fbb57dd36d985d3537dd24a7706731bf987f70741a2eeee5553c3648",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0030.png",
+      "sha256": "8a93d920456b5921407c533a1408545c24bd0f9d97397303df35fc58923dbcd5",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0031.png",
+      "sha256": "20fa08482e212c6fcc8beeb55b6de204f4dd371bcbb8e5f82f68e25866326d99",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0032.png",
+      "sha256": "9c749f27cd72b4721614fec687dd3c23bcd93947896f86b9a90e7bc8c0910f70",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0033.png",
+      "sha256": "59960fe3589195bfcb94aa91ff9cb84c91b2f194716be426610cf4c54ef2636b",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0034.png",
+      "sha256": "e2267125fbb57dd36d985d3537dd24a7706731bf987f70741a2eeee5553c3648",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0035.png",
+      "sha256": "8a93d920456b5921407c533a1408545c24bd0f9d97397303df35fc58923dbcd5",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0036.png",
+      "sha256": "47c4c5057a87e589351c85c0267ff333fd972a2e23f7fdf60fe59b4c47f56fe2",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0037.png",
+      "sha256": "6d17287bfd43e13f4f49c8d1ce18b32422fa45b481f391deb84e2a9cb3a4faf3",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0038.png",
+      "sha256": "b88c40466fe99fba120008f0d91b2776dffe24b7dadb3012ad07622e3c9d7384",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0039.png",
+      "sha256": "422e4f42233910481b190e94fa2739e3050a222da868061f44a5dcbbdfb363d6",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0040.png",
+      "sha256": "2779d0fd1bae4d8999943a61f901621c8726efc2edd77c43eedfabf3d3a4eedc",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0041.png",
+      "sha256": "265b5b8de60c1a9a8a9df1bd61cbedb3da89d4a7706d3a3ad4efe41bd98c75cd",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0042.png",
+      "sha256": "6ea4b9777f6e3f143d017884751caf922be78331f8333c4a9de723eda12aec6a",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0043.png",
+      "sha256": "97871be86b943701c2affa8d615d336fa607f2ae1545513b22a3907e0037d417",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0044.png",
+      "sha256": "4abd55d8e45e3676cafd60fb8571b87ab6f8564a38f2c9b537f929d590e5521c",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0045.png",
+      "sha256": "a71c75e8180e5e60a61b8761765732a9f0be99894272c5ff9f21e8a47e26b4ea",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0046.png",
+      "sha256": "fe5d7007cc6a2c7c3360743da752f5b105ca2ef79a5a4865109beff3bbe82af2",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0047.png",
+      "sha256": "b422e381c0ef8056c7b0b423f56744ea50a5894a6a6b8fdac3d76b288e61ebf3",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0048.png",
+      "sha256": "74f35738ee80d9a2b89715c01d6434b5d775873c56cbe0bcdef9af5e83f565f0",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0049.png",
+      "sha256": "642cd09480202ff51524f4624fd50f115dc78a3cc8da171c59bae134f843ad43",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0050.png",
+      "sha256": "727d20d80486cab89d8bb9112e8c46af4ea7807c510c6a900b1fb2d1916197c6",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0051.png",
+      "sha256": "30ffbb7c0a893a4b015238feb50cb87cb4074739c488ab9ca3de71dece3f4e95",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0052.png",
+      "sha256": "19e7108bc4dd6352c63570b64bc1842a24e634a2c8121b581c532dae62c30b9f",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0053.png",
+      "sha256": "9fd70abe2ab27a4c149ab45f615ca2bf68f45890f916f8f6ce30eb585888ed92",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0054.png",
+      "sha256": "c6fc89ed3081b8bf08528f894c261bb4015a1ec56950d610fa99283bdf64f233",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0055.png",
+      "sha256": "457df79056c8b725a7808f0fda005e968c9519717e65ec24b8fef7bc05f8bc76",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0056.png",
+      "sha256": "10f9b5d43f01a5db000e7bb1179eaa8604351c8e7c2b6cda67d83053128de78b",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0057.png",
+      "sha256": "5538ebb44f758ac87c1c35c5821349c8ed49793452c31ab0b7a99a94f2137a4a",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0058.png",
+      "sha256": "3a2c622d36591205d6b94fe1459744adce47f4974f3ac34ff75b08c986433ebd",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0059.png",
+      "sha256": "6a1a2a697089eef3b804ccab5a664dbaa4470ec09cdeec16c14e771bd5c7de63",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0060.png",
+      "sha256": "656dd4c3cbe83355ccf901056188ff17c0d5379392877c95ead2dab74824e67d",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0061.png",
+      "sha256": "4e2e5fc673bc1a4f6318adb0be1828d5a7f956b5e1627608133a24eaa31f22e4",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0062.png",
+      "sha256": "34967a17109fffaa40e644360d62cd655c3c4de2e52eb1cbf71d18bddfa73819",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0063.png",
+      "sha256": "ebc0c509cdc918ce62d95cfbc8e6ec1696bba00a342efd44bf4241a9663634d1",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0064.png",
+      "sha256": "6a9b91b8f8ac26a2b21001b95a84976e1ef5a7953748bdb249cb7fde1c2fe572",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0065.png",
+      "sha256": "b1ce1ffe950a1ee5eabdcfe8b6b9a3976fdb38761d6e1fdbeda61c3354d2438d",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0066.png",
+      "sha256": "78917a88d75089c9054a7bb5fa9ce3a0febe1b61a8913d28674c31073e853485",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0067.png",
+      "sha256": "5dbc62b92aa2ab435dafc4121f1a846589a0546bc7d0ca8d1ff421f49471179d",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0068.png",
+      "sha256": "92977ac5a0fd5feac3c43bd011b49f9b89f41f310b8db4f1c0e77ae2325f1dd0",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0069.png",
+      "sha256": "76ca77b61eb7fd8962ebdd7b1a2a358db7a394b497cbde275fdc7073fad1ae9e",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0070.png",
+      "sha256": "0c6f5466cf01f83a090fcf7ee6155ea9db224bd3bc888812320fb671c922c840",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0071.png",
+      "sha256": "28e70fea9e2af439a2dc16a1bd2aacc7d2f2ad9467f06f39b041592e623dceb9",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0072.png",
+      "sha256": "f6d815fd8e45572292afb9b322e0f684a8ebb1ef07d836b8fcf55c22972f0088",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0073.png",
+      "sha256": "243b050cd8fe711dae52f3181424480a4439a66050592d78db58bfab9aa1cac6",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0074.png",
+      "sha256": "43040c196d3b7f9425eb12347cac110cc1a0fb32ca8df9a80e364e6ebd1e464b",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0075.png",
+      "sha256": "759bd00ab8209a233d060dabfed0e6f858f69663176e897710f539da690ad689",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0076.png",
+      "sha256": "a5e6f8d2eda523258b97f730a6f568a803bd140ba9cf7aecd0debec4e803f903",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0077.png",
+      "sha256": "77ea9fb292a9b166a45be6ed13ab0b355546591096b77cb37edbcea6acd15547",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0078.png",
+      "sha256": "dc94fabfc0910d2f00a5835ee8dbcf3e2af35891fbcb7f08787b884fdd3557f0",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0079.png",
+      "sha256": "e95eb601e4afc48ebb4ea0b6a63f72d9cc609e8d1d3da6be18b7dcd5d1e25909",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0080.png",
+      "sha256": "eb3be0a76f79254dbf1d1ee313c50d9e83209f1faa55ed76a2573a4326b050be",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0081.png",
+      "sha256": "215d35e72d207a31a1ac1e2f203da63755f41a78e92ce3d2d462f3cd79159bea",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0082.png",
+      "sha256": "7cb5be550ec45f11ef969a70dd955ce5860cf4abeffbacc1f11eda3f42be545d",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0083.png",
+      "sha256": "3c99e134fd0beb01a3dfb79ae9e874cf7bebb94f8c86d14b616ca24686d0d09c",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0084.png",
+      "sha256": "83e5433653d1df5c11b2b934f4e8d6c346f616510ab6c244874a2e54bcf9687d",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0085.png",
+      "sha256": "587efb2be6f6df07ce82ba5c648b16c6609353efdf3889664f15b193b8469c58",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0086.png",
+      "sha256": "0496eaa474e41c86a029489b8011c52f9acce964c8910e685ed9fad6451953fd",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0087.png",
+      "sha256": "58c591e2a1cc1355c9f3563d2b1763a2ccb08de96f82d821cb80fad8ff4475e7",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0088.png",
+      "sha256": "60f348a28b6d4a41cf463abc126daf7ee0042ad47d606e1baecb731d7696a43b",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0089.png",
+      "sha256": "a38c01516111db5ade01c0213d0f99475dd5a1079837e6ceabbdd6da988b86ae",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0090.png",
+      "sha256": "537eab19ab69792e64ac466bf6a61e63b6a1db0cc45fdf33f579adf2ac86ec03",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0091.png",
+      "sha256": "903aed47873bf8c3f05259ea4936a289f830abdbac8a7fbbd78b806494c65f5d",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0092.png",
+      "sha256": "63cf58b46b88c1300a34b834d5d2578b9e23d19e5d3805077de9ea10160c287f",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0093.png",
+      "sha256": "c3c6adaa1a381fe3ba85d10d64b363961e1d22ebd85c4a4aff57d5687192f143",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0094.png",
+      "sha256": "c3937632e709a961c414d782da087051a986fc3431947298ba816136befea22a",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0095.png",
+      "sha256": "a04881f78f2b2da44d543501fd54432d7d2c2d28a4ee43bd571531e463e52502",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0096.png",
+      "sha256": "45431cf4274576ac5853e5bb9e8f2ad654e09d36d3a37ebaca5a4168029b84c4",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0097.png",
+      "sha256": "132289ffdc5db07aa0cfd28a0de8f6d8ebd60e2d2d2815ef4c4f2f278ac5df98",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0098.png",
+      "sha256": "41aeaf16787ee22cc4fef04a9e10ee5e7619bc12c09c8dfa0ffa80395dc97f17",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0099.png",
+      "sha256": "2513d408bc9422d6ed21265756158ee8742b5fcf89015963bcdf5f3554684ad2",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0100.png",
+      "sha256": "52dd285ec5e43c580e55ad603e541442a35b9dacafabb0cbb07e47e4f38057f6",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0101.png",
+      "sha256": "b5ab3528ad9b397cfdc87b191ebf3673bf74d85e16afc0cfd076cf7a6a4c4ff1",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0102.png",
+      "sha256": "152987ed8f102f9929995fc5e604e4b8775359c72894def82f2d2037eb32bdff",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0103.png",
+      "sha256": "be3669da1cfa6fa9a0f3fbac81f8d4c792d076b812c576a694b7e604d46b2028",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0104.png",
+      "sha256": "0b8c1943cfcc112ab39f9bd593f283a5f44c87c4b1a08e19523864ec55779b34",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0105.png",
+      "sha256": "499bc44b16508cf8452a583e1a8f0270e59071f3d2ba4b017cae2b3fda1d6b76",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0106.png",
+      "sha256": "605ef39589d139bc268c45ba3b558a48b32b0bef261bba5a940fc83f18063544",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0107.png",
+      "sha256": "b67576ce5ba7805b162d2bdd3a5b3ddbdefa3fe8e872ef273fc1ce29d137bf26",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0108.png",
+      "sha256": "8e3884a3cbe226e1d3a55669149838ab481dcb4b7940b4d04310aaec117230ac",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0109.png",
+      "sha256": "33012405758ab1bd14eb25c1abd7dcb35f0dc6d5fdb2657911b523fc3d7a930c",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0110.png",
+      "sha256": "890c40ff685f5e5c05ab4ca04bdbedac3424e56e31bd444ef39a7828fd8576bd",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0111.png",
+      "sha256": "6ef6e0d8c9e96cac85512d16090a18a64da89793f1863878b0d4b095ccd7bc77",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0112.png",
+      "sha256": "993ece1a151686912abbaedc752592c8128e469eeccecbdcd49d4e4d74d66111",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0113.png",
+      "sha256": "b76237ebd5a83f7de6634fbe81b5668d46b0615a1a7e589607f5b5fc1b5b4f6a",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0114.png",
+      "sha256": "09c0eb474b2ba06fc05ab6167e3f1df190691f80783f44b4c999447a9786af60",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0115.png",
+      "sha256": "dbfb01963b1cdcc93d5d4d706fb917165ad464a0fc369a01735598019b6c2056",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0116.png",
+      "sha256": "5e572cf6c973efc260e2e9593eb660a80543ad2a223038d6f6ef1ec654568afe",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0117.png",
+      "sha256": "f984a908935fc67afa86394409972ea37679a8d324c196ac2b0e2424a2d2fb90",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0118.png",
+      "sha256": "671b839cdd7a9f1dd3a79a5aa726f282e44028d43eee5520742e13dea8dba0f9",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0119.png",
+      "sha256": "e2267125fbb57dd36d985d3537dd24a7706731bf987f70741a2eeee5553c3648",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0120.png",
+      "sha256": "1b15026f72f20c597f2ecfb948394e19d08eb60c97a49bc91ed1d21e86d9208d",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0121.png",
+      "sha256": "d971543f4c5ef5a2f21dfa67311aac2349ce28abd725fa2e4c9a0bcec671d3f2",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0122.png",
+      "sha256": "832b1dde5be3a3b6fce89f380ba4e92fed11505b1c8206fd4f05d3fc274768a2",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0123.png",
+      "sha256": "4bd7ada59ec90fc780afec60c8afab290ce0c2fb2bf44f3acfa250ab3a5ae1da",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0124.png",
+      "sha256": "8b2f28f99372e82df01aaeecc422f9b639f216f8e87d77c4d92f72d9bb20664b",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0125.png",
+      "sha256": "4bd7ada59ec90fc780afec60c8afab290ce0c2fb2bf44f3acfa250ab3a5ae1da",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0126.png",
+      "sha256": "de91d04fee7130e85eaad485afad3d30c3eb1ea52473a73a356c33185b083d7b",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0127.png",
+      "sha256": "2587865f53d47346ce72eed912aaf9ff7dd74384dfa7c4bdab35c08929fd92ea",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0128.png",
+      "sha256": "7dddd6a2ad3d840526f934d0531d9c0632176652b4de040efd1a5c4c31a08853",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0129.png",
+      "sha256": "bc05e66afb8afc9cf8aa1f5cb494345fa3318625898fc02b7e848fae381d64ec",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0130.png",
+      "sha256": "063d0d0fba93d5c6c312c59ba3bcfb127759e42ca2c8e908a5da391d54cf8c64",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0131.png",
+      "sha256": "00be08d9c54eabaa2c6f56fd3ab6e811393c7b25a29d78db956bab5a430f0c45",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0132.png",
+      "sha256": "6e92f5c1afc5d1ec6994c0bd14c1e2c4139585704ff5a9f04e7dcc1c1f353b85",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0133.png",
+      "sha256": "aa4febb39cfb8b8e20748852f3ca5098d83c55f448364cd3b2f0c8c90a16250b",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0134.png",
+      "sha256": "d543102c0eb275714d5c0eac44bd932c90b8d9c1b9b8dee7aeaf1aa431c402b4",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0135.png",
+      "sha256": "df07cc2dc7bcbfcd00828e02132536c0f508b827baa49b9208fce75ffc5ed600",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0136.png",
+      "sha256": "0af89faddca7e8d984674b19febf4fbc136fb5cac87cd3383260fa036ac355cf",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0137.png",
+      "sha256": "c770863cc7615cec5cc92f51d1f7cb8b88a28d6b80cdc2dfa746a784bf74e893",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0138.png",
+      "sha256": "6eea4a92a51e1b1309de885e777d26d3b9dd45214c5af2b1754e24e322f78ebb",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0139.png",
+      "sha256": "694cd2482f7ae17e5821d4fc1c4055e91ab1daa28fc4040b279d77e5106d3553",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0140.png",
+      "sha256": "3858c7d29a3153aa46d6b3a4d471256f22768ace9da69163ff196ec304b05c72",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0141.png",
+      "sha256": "69d1c313d737bcdadd077c6c1506d555fe8aa91557127f4894399e76f5ed0395",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0142.png",
+      "sha256": "2e65afd65085b3e15546d5215710f74eaaebd8c09a6e1af778c54abbe07898c3",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0143.png",
+      "sha256": "b8e1110a2c0af804135b1bb60dbab29d4ef27e3b4f47a2446b8cd1474af4dfc1",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0144.png",
+      "sha256": "b0a4216491fa47298a7014783e195d671d6633a8e9b08b966da4bdf2066585b4",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0145.png",
+      "sha256": "998a0c65fb2c553b7f266ea1ac25824feee37ce49d5ebd01b525cf17ca8ee29f",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0146.png",
+      "sha256": "34d9f6d3ed3f2cf94db556aa95e3fc73d940b96b2244b335645d58bca639b771",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0147.png",
+      "sha256": "4181cbc42876d2a40ac830eefb9df61805164676fa064144837ebf9736ea5217",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0148.png",
+      "sha256": "d54f8df42cc033d8f626129a9772a96bb70dd86f0b1b7c648326aafafd276f21",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0149.png",
+      "sha256": "e916ef137f2acbb8bca4aea0bf2b4e695e458b19c049e04c416f44db68fb8365",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0150.png",
+      "sha256": "ed93dbc826a4ebe96595a3dfdd2603d1b98ef4ead75507761d3bf3cdea889717",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0151.png",
+      "sha256": "c2df28be63bd7cd5254043b9ba9a4670466954bda0e08b2f3f21d63481b9c1e6",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0152.png",
+      "sha256": "506544ea7cbb5deab478d36ef5da732caf744737c74452f4a0b4e550a3e95cda",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0153.png",
+      "sha256": "da6b52e1deacf0efcac1c51a7c68354d5ef14648f871da81037874defa4d58ee",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0154.png",
+      "sha256": "2f28959d035abf4d66a8bc525d0c5f1109f7aebb7042d7e87b4b1128ef5d8895",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0155.png",
+      "sha256": "48cdcc9e1ba34916597ea325c3d20afd27a216503d046fc022fd74a20f1ef1f0",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0156.png",
+      "sha256": "ee514ffabed589b3ed52ea8ba8d1e42c8e5a1b0bcf65426438554380dc5bc9ea",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0157.png",
+      "sha256": "989ba077df7161a294cf0dd75ed4f580cf1d2739ce1046dff0bc71638b6d64e5",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0158.png",
+      "sha256": "629e4b0e8fb3e086d45567b9b4a997604905ca16f029e1b88188667c1a5fd8a2",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0159.png",
+      "sha256": "d36aae158283f38b0b8b3c2ffa00cf7be2d54b6b803d6acae20c3442279aedef",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0160.png",
+      "sha256": "fcb3f869c2799152bc5af6ebe1674b0662c90fb1e292f5c68c0a1839e5203d36",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0161.png",
+      "sha256": "b5046ba36adff9fb39264cc4d5b55623007dda4334ec9cbfebde7eba5a79b0a4",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0162.png",
+      "sha256": "dabbcc8a345b63b228230bdad5b330f6a071c21fc5ff2196812b55dcf79c2f25",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0163.png",
+      "sha256": "f28b9405311ffaefb1769af3bf14cf6a1f06ee8749584f165d3b8aef8d1013c7",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0164.png",
+      "sha256": "4849b05978f409483f5fd18369a73f9ddd5bc96545901c09c36241f9fae22adb",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0165.png",
+      "sha256": "76813d664ae4130d270fa5e219f7aa9a944c0c08a3e59e3a4b9ac2783a6a8352",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0166.png",
+      "sha256": "9dcea8a87bda14c8e0fcce1bd73fd29691241dc5a498b8b012739f344efd7e9a",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0167.png",
+      "sha256": "bb5396f22103e2584d43572225e9cf88026904d3d6f1a87351fd2d569d841508",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0168.png",
+      "sha256": "9c01566078064bf310e19e9315c02ee79265ede1fb3643c854991e22213165c5",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0169.png",
+      "sha256": "f601e57cf1c46b6954cf6f1df270d4b55cd219bd0719a59e6b3c4ad3834cc246",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0170.png",
+      "sha256": "3dea59018bc7202ffb0e69fff52da6411e2bbd3274c3d7486336a61efd929a31",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0171.png",
+      "sha256": "ee92ffa6eae8859a14f1da149d511ebd1488f63412262f899a1d3f5ad1517880",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0172.png",
+      "sha256": "f4a8b7111574bd5b95b98847aec014db0a4136873cbbcb754cc33ddf19eaeb42",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0173.png",
+      "sha256": "a6de67dc19a8d80ac8abadb88e55d84ff31d430db7c32578295305c1b5c82cad",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0174.png",
+      "sha256": "da1795134846d387e3b39b43f0a4df9b6c342d7b3e99c64dcd83072bce1ef95b",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0175.png",
+      "sha256": "8a776c9cc4b703c135ba445a55bd26d1def868de794d8ce82670789175b1e4b6",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0176.png",
+      "sha256": "119dcb306844cfe8a0644a37f4717d407a4ece0d184689fb787c725a47c242bd",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0177.png",
+      "sha256": "206987219ad5557b9303f960d58982930b3a8811cd6ac0a7d545733f6ee63bff",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0178.png",
+      "sha256": "a81b3d71c2dd085c7ce9ff498b4f2ba03d71f2b40324f0e6d425ff2fb4951d36",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0179.png",
+      "sha256": "0845b970dca16a2b0224c112167cfb97b6935e17fd7c6718484a14e6660ee028",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0180.png",
+      "sha256": "c2fa11fafc3bd1425e931372abc18da528673ad4404ad30c1d4be149d2b074e6",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0181.png",
+      "sha256": "b002fe715745a9066c49f2bdd24c04e754b737a16dc0f7501e9b329eaf3f3cd4",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0182.png",
+      "sha256": "357ee8ab36b4845f3046b7123c9590329931bff7a0a62f98e6673584125b70f3",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0183.png",
+      "sha256": "c2fa11fafc3bd1425e931372abc18da528673ad4404ad30c1d4be149d2b074e6",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0184.png",
+      "sha256": "cac42239b21c2d55453ada24afa453d73faed62250932d03a58b27376d73ff8c",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0185.png",
+      "sha256": "04e73e8314fc63add9e103c5be67d8455ca4c5230f193ab83f23b4f7dcc9c25a",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0186.png",
+      "sha256": "ebef04126e436f2aedba923911e11c9a2645595586a7dd876f810c69c5b3a271",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0187.png",
+      "sha256": "7d24a4faccbb4bb5820f124ec745a6282209edc0915f57949c955e32bac2d56d",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0188.png",
+      "sha256": "8344241013abb490f0e4c1230238627f70b38302d7957ae00717a982a97d7905",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0189.png",
+      "sha256": "d7ca61152f2d859709fb8a5887281cd8c35f6b33b69fe0549644405a6fc7b2c3",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0190.png",
+      "sha256": "3072b5c2cfa482ac8b47c14c7fe792a00476959e0312a8431c979ad6d18f059c",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0191.png",
+      "sha256": "c68c5c06426902bcf86230a47ef8d335db815228c40484cd284ff882b083982e",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0192.png",
+      "sha256": "5d033927168e3f323a8405176c32410e5f03d399f7b90da5c5aa905fe8f9ec17",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0193.png",
+      "sha256": "df1d865697095d1a88cbcaf965c225109a75d662425e49085bbc46796a2814fa",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0194.png",
+      "sha256": "d6f3650d90faf41c3ed398bdcb8d3af5cf0b5a4b88d0af22552230568db7e84a",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0195.png",
+      "sha256": "eb5913204b478fe5a3b1a700e62a1c196d7aa37b4c8a97cd64e36bde7ab2a498",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0196.png",
+      "sha256": "49099ee32ef45fa8a9148343325f3c4644162b62f72ccb1d75c508718d2259cd",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0197.png",
+      "sha256": "eb5913204b478fe5a3b1a700e62a1c196d7aa37b4c8a97cd64e36bde7ab2a498",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0198.png",
+      "sha256": "804a2bee3d562e2030195368ebb6f5977d818634ff312d7b1087a0ccb6937934",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0199.png",
+      "sha256": "74aac1daa60f8361508957ebc4a97b8a829af1fdcd505a361f225c88888b65b4",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0200.png",
+      "sha256": "7bdbb9cae92261ee5f381ca5f19c697f9308fd72fd04a2d453151d6d14fe54a9",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0201.png",
+      "sha256": "3a093b17879e7d1d3c132e8465a7fed53203d721731ea00ab83cc678d34fc20c",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0202.png",
+      "sha256": "b451417be04a0e90c70f2e0bf9dbe16963f3e5124aa9c996b71cf553fdfa3ef7",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0203.png",
+      "sha256": "d1448e8f331037551ab76498a12c38dde9840c29bbfa1d3cf2d9797fd6a1c47b",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0204.png",
+      "sha256": "a55c149c0259335c00d030a3c0dc13b32b9c771b88f9d0994d11869223aca19d",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0205.png",
+      "sha256": "a2f3f83119efe91594f789435f07e9ca8efe9d12581d7cdc12e2c6079ecbb61a",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0206.png",
+      "sha256": "f9da6dac0410703fa0c0936cfaa97d70fd35bac7112f97a379a70173d29156b4",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0207.png",
+      "sha256": "57ad1597a17dc74b94182e0a9e4464b5167e98ca29736b197eeb20ce9d6231e3",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0208.png",
+      "sha256": "f098af960e8365c869e616fc8a04c95891016b41c924317e2576541bd6e5799b",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0209.png",
+      "sha256": "ea97f91ea39399813b77b83b8de5f7006e9f91a77408ee7ee5c02f0527445d64",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0210.png",
+      "sha256": "83dd829f88d6b5b75815c7df5c38012ed69b9db1a091c21f9fe46bb944f1b97a",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0211.png",
+      "sha256": "2556d31cd458e76a220d1fc35bb2971e2c5925811435759a70fc8577a496fa10",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0212.png",
+      "sha256": "5f4da3e7beb68687732b51a023b8f482e7b6b0fd9735fc4910e166a7d8948e6b",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0213.png",
+      "sha256": "f666fec41a00119c653709738835164674e31dcb0f14f7eb6dc118316fcd8bbe",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0214.png",
+      "sha256": "185df76b5d0c72df16682bbe2484ff4f1f22c25ee1324272bd3f884bacb6d66a",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0215.png",
+      "sha256": "7672181cbff51e5984a51ec30324016f6fa6dff0aef60f211fb601cececeee8f",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0216.png",
+      "sha256": "f74df98826250ae9bbf9c10ad7fa6924bfd312ed16cfaa45c68bdc25a6e25514",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0217.png",
+      "sha256": "2ae36235f675d2eae7f9038d515357116c105afe39dd3a3cabda7aa7e1b4085b",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0218.png",
+      "sha256": "02946562359101bc336dd4e88a90c8520ab362ddac56b8f501b000ba2a2aaa3f",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0219.png",
+      "sha256": "d2f3bc05276be5387d8a2e79913557cc5f9e7f5a42116b3c65000a3febfba472",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0220.png",
+      "sha256": "3d1cd0f917f2c5572fa8dd592b88b7952e73ba12b1f8ec5804aca52f39851fe0",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0221.png",
+      "sha256": "ac73e0aa338a55fcf8162bd4144e3791440fbe5b5e4c8c95817eaefd776323aa",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0222.png",
+      "sha256": "4c772edbd3224f609ff88d0761aeb54ab8bcb3f1ba88009d34f979a4fb4ef9d3",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0223.png",
+      "sha256": "ea4b79d6487ade5f558d50ea61219df0198c758adee538dfcb32b25f5d555383",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0224.png",
+      "sha256": "5da8b99cc715a6cb80a73ba31595f6cb1974d6b31fe0915913877a63bc60f6aa",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0225.png",
+      "sha256": "0e28b6df2ca2241eebc32937af0940e5994b547c8f96b167a2f4ac2b41ccecd1",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0226.png",
+      "sha256": "f8ff19e05f6f7a5bb34a47d175ab9aa21868e465b87d88ca5c5d3d47bba8b5f9",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0227.png",
+      "sha256": "cf082694d59cbadb539d3a894c52dfcd5cef3b2f5559a5b05d9450922e328a6a",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0228.png",
+      "sha256": "b700c77a26b905fdc02f85de650f032871afbe1f5d381cf9c4bc5b1b18662c21",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0229.png",
+      "sha256": "4f49d967fe5b3ad8096190e52cf146403b6daa586c5523e132f6dedd29417536",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0230.png",
+      "sha256": "cbbf66b3bc47f2ff7ede109efe3fa2d14b8606f2464d7b3cea11122e3f4c2862",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0231.png",
+      "sha256": "950c43fe61649566c17b396d855a615ff70680b9c83cf256d51c70518d3f8765",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0232.png",
+      "sha256": "bc9eca26f399893fadd501b83a6bca2458d75384c847566a63f0c1e531d97d87",
+      "status": "original pixels restored"
+    },
+    {
+      "path": "Assets/Resources/Desert Shooter Bundle (Sprites Only)/Tiles/Tiles/tile_0233.png",
+      "sha256": "542e5eff4263ffbb3f4314fa13953b2a403b1c1af575c10cc0f367b7042543b6",
+      "status": "original pixels restored"
+    }
+  ]
+}
