@@ -1,0 +1,42 @@
+[
+  {
+    "name": "open-diagonal",
+    "result": "pass",
+    "actual": [
+      3,
+      3
+    ]
+  },
+  {
+    "name": "horizontal-fallback",
+    "result": "pass",
+    "actual": [
+      3,
+      2
+    ]
+  },
+  {
+    "name": "vertical-fallback",
+    "result": "pass",
+    "actual": [
+      2,
+      3
+    ]
+  },
+  {
+    "name": "closed-corner",
+    "result": "pass",
+    "actual": [
+      2,
+      2
+    ]
+  },
+  {
+    "name": "diagonal-wall-horizontal-priority",
+    "result": "pass",
+    "actual": [
+      3,
+      2
+    ]
+  }
+]
