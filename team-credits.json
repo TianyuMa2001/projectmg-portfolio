@@ -1,0 +1,115 @@
+{
+  "repository": "https://github.com/CS5800GroupHACHIMI/MapGeneration",
+  "baseline": "6ed95c17226cbba26273d56ad8dab2eab1b4c662",
+  "method": "Non-merge commits and changed implementation files inspected. Real-name/alias mappings confirmed by the portfolio owner; GitHub account logins verified from public commit metadata. Roles summarize historical contributions, not exclusive ownership of current modules.",
+  "members": [
+    {
+      "name": "Tianyu Ma",
+      "alias": "hm2mty",
+      "login": "TianyuMa2001",
+      "role": "Portfolio author \u00b7 Technical Design",
+      "contribution": "Delaunay/Kruskal generation; key, chest and monster interactions; discovery-aware traversal and Efficient GoalAI; danger costs and bounded supply detours; eight-direction movement and animation/corner fixes. Extended the team framework, original fog and GoalAI foundations.",
+      "commits": [
+        [
+          "784c3a6",
+          "Delaunay/Kruskal generator"
+        ],
+        [
+          "51baef8",
+          "Room gameplay"
+        ],
+        [
+          "4e0b412",
+          "Fog-aware traversal"
+        ],
+        [
+          "68677d4",
+          "Efficient GoalAI"
+        ]
+      ]
+    },
+    {
+      "name": "Jinghao Zheng",
+      "alias": "saltyfish / saltyfishalpha",
+      "login": "SaltyfishAlpha",
+      "role": "Unity framework \u00b7 Visual integration",
+      "contribution": "Initial grid/model and generator framework, VContainer setup, tilemap rendering and player pipeline; RuleTile configuration and minimap foundation; asset and animation integration. The repository credits original artwork to SaltyfishAlpha; third-party assets retain their own notices.",
+      "commits": [
+        [
+          "b2e5420",
+          "Initial Unity framework"
+        ],
+        [
+          "48cbce3",
+          "RuleTile configuration"
+        ],
+        [
+          "93631a5",
+          "Minimap foundation"
+        ],
+        [
+          "6ed95c1",
+          "Animation integration"
+        ]
+      ]
+    },
+    {
+      "name": "Changfeng Wang",
+      "alias": "longwind",
+      "login": "longwindwang1",
+      "role": "Generation \u00b7 Gameplay systems",
+      "contribution": "Random and Metroidvania generators; animated map generation and BFS/DFS room traversal; original visual fog, player health and exit/level progression; GoalAI foundation, difficulty scaling, hazards, coins and scoring; later key-placement safeguards.",
+      "commits": [
+        [
+          "b8bb620",
+          "Room generators"
+        ],
+        [
+          "5286b85",
+          "Generation and traversal"
+        ],
+        [
+          "50fe7c8",
+          "Original fog, health and exits"
+        ],
+        [
+          "6b05c7c",
+          "GoalAI and level scaling"
+        ],
+        [
+          "d640f68",
+          "Scoring and coins"
+        ],
+        [
+          "ed64e23",
+          "Safer key placement"
+        ]
+      ]
+    },
+    {
+      "name": "Monica Kumaran",
+      "alias": "persinammon4",
+      "login": "persinammon4",
+      "role": "Weighted room graph \u00b7 Prim MST",
+      "contribution": "RoomsWithCorridors weighted graph generation and PrimMSTGenerator; MST line visualization; subsequent graph connectivity, edge handling and visualization corrections. Credits describe committed implementation and iteration, without claiming every layout was acyclic or bug-free.",
+      "commits": [
+        [
+          "91b1b1d",
+          "Weighted rooms and Prim MST"
+        ],
+        [
+          "64d3b06",
+          "Visualization correction"
+        ],
+        [
+          "87a76d7",
+          "Graph and MST iteration"
+        ],
+        [
+          "7e48453",
+          "Edge-handling iteration"
+        ]
+      ]
+    }
+  ]
+}

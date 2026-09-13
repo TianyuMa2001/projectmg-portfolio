@@ -25,7 +25,7 @@ Optional validation launch: ProjectMG.exe --portfolio-output ABSOLUTE_DIRECTORY 
 
 ## Source and evidence
 Baseline: 6ed95c17226cbba26273d56ad8dab2eab1b4c662.
-https://github.com/HachimiGame/ProjectMG
+https://github.com/CS5800GroupHACHIMI/MapGeneration
 The source/evidence ZIP contains project scripts, MIT notice, independent .NET checks, and recorded route JSON. It is not a complete Unity project. Open the GitHub project with Unity 6000.3.8f1 for the full original source. Original art remains copyrighted; the portfolio owner confirmed permission for this public review edition. To recreate this edition, prepare the isolated demo, run portfolio/work/restore_original_art.py after the legacy preparation script, then build with PortfolioBuild.Build. The legacy prepare_demo.py alone creates the superseded abstract edition. See RELEASE-STATUS.md for scope.
 
 Independent check: from a full source checkout, run dotnet run --project portfolio/work/evidence/Evidence.csproj -- portfolio/deliverables/evidence. Its generator adapter uses System.Random, so it does not reproduce Unity's seed map. Its routing fixture uses fixed geometry.
